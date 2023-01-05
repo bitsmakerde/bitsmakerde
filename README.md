@@ -1,19 +1,15 @@
 ### Hi there 👋
 
-<!--
-**bitsmakerde/bitsmakerde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my next iPhone app
+- 🌱 I'm currently learning cucumber for better relations between requirements and TDD.
+- 👯 I’m looking to collaborate on software devolopment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Analytics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitsmakerde&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitsmakerde&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<a href="https://github.com/tyler-keith-thompson">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=bitsmakerde&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="tyler-keith-thompson"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bitsmakerde&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="tyler-keith-thompson"/>
+</a>
+</p>
