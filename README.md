@@ -8,8 +8,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/tyler-keith-thompson">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=bitsmakerde&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="tyler-keith-thompson"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bitsmakerde&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="tyler-keith-thompson"/>
+<a href="https://github.com/bitsmakerde">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=bitsmakerde&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="bitsmakerde"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bitsmakerde&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="bitsmakerde"/>
 </a>
 </p>
